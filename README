@@ -1,0 +1,18 @@
+This set of program files provides a rudimentary White Label Portal to 
+show how you can use the SoftLayer API to build up your own skinned 
+portal to front your SoftLayer implementation. 
+
+It is based on the wonderful sample API PHP scripts of Github member and 
+SoftLayer API guru "underscorephil". I'd also highly recommend checking 
+out these addresses for some great reference/learning materials/scripts:
+
+        www.github.com/softlayer
+        www.github.com/SL-AshleyW/API-PHP-Scripts
+        www.github.com/shift31/hostbase-importer-softlayer
+        www.github.com/ycs334/softlayer-api-portal
+        www.github.com/yendor/softlayer
+        www.github.com/lboaretto/Stratos
+        www.github.com/tenthirtyone1031/coinzen
+        www.github.com/tylerflint/sandbox
+
+        ... and many more! 
